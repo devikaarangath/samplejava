@@ -6,4 +6,5 @@ public class PolymorphismParent {
 	{
 		System.out.println("Hey");
 	}
+	
 }
